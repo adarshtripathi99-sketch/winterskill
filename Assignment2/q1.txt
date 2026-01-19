@@ -1,0 +1,40 @@
+a.  1246811
+b. Dream about a nightmare
+
+c. i = 1, j='a'
+	Enter any number...
+	Enter any alphabet...
+	If you love something...
+	Else it was never meant to be.
+   i=1 , j='b'
+	Enter any number...
+	Enter any alphabet...
+	Set it free...
+	Else it was never meant to be.
+   i=2
+	Enter any number...
+	If it returns, it's yours....
+	Else it was never meant to be.
+  i=some no. other than 2 and 1
+	Enter any number...
+	Else it was never meant to be.
+
+d.  a = 32 b = 21
+
+e. Result = 36
+   i = 5
+f. x = 3 y = 8
+g. k = 26
+h. Result = 15
+i.
+j. 14 11 8 5 2
+k. 14 11 8 5 2
+
+
+
+
+
+
+
+
+
