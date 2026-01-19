@@ -1,0 +1,82 @@
+Q1  Outputs
+
+A. OUTPUT : 7211048
+B. OUTPUT:  char occupies 1 bytes
+	    int occupies 4 bytes
+	    float occupies 4 bytes
+C. OUTPUT:  a = 33000b = inf
+	    4 4
+D. OUTPUT:  a = 33000b = inf
+	    4 4
+E. OUTPUT: n = 15
+F. OUTPUT : 4 GARBAGE VALUE(ASSUMING %An is a mistype instead of %f )
+	    garbage 4.0
+G. OUTPUT : 02
+H. OUTPUT : p=1 q=1
+I. OUTPUT : c=1
+J. OUTPUT : I have robbed and killed...
+K. OUTPUT : ans = 1
+L. OUTPUT : ans = 200
+M. OUTPUT : Pilots are on strike...
+N. OUTPUT : k=100
+O.  LOGICAL ERRORS IN THE PROVIDED PSEUDO CODE IS THAT AND INFINITE LOOP'S 	    BEING FORMED AND THE printf condition is not within the body of the while loop.
+		corrected code : main()
+ 				{ int j = 1; 
+				  while (j <= 255)
+				 { 
+				  printf("%c %d\n", j, j);
+                                  j++; 
+				}
+OUTPUT: ☺ 1
+	☻ 2
+	♥ 3
+	♦ 4
+	♣ 5
+	...
+	A 65
+	B 66
+	C 67
+	...
+	Z 90
+	...
+	a 97
+	b 98
+	c 99
+	...
+	z 122
+	...
+	ÿ 255
+P. OUTPUT : 2
+	    3
+	    4
+	    5
+	    ...
+	    254
+            255
+	    256
+Q. OUTPUT : x = 3 y = 9 z = 27
+R. OUTPUT : x = 4 z = 0
+S. OUTPUT : x = 2 y = 1 z = 1
+T. OUTPUT : x = 2 y = 2 z = 1 [j) has been construed  to be && i.e the logical and 			      operator.]
+U. OUTPUT : Gets printed only once!!
+ but the correct pseudo code for that will be 
+main()
+{
+	int i ;
+	for (i = -1 ; i <= 10; i++)
+	{
+		if(i<5 )
+			continue;
+		else
+		{printf ("Gets printed only once!!");
+		 break;
+	}
+}
+} 
+
+
+
+
+	    
+	    
+	    
